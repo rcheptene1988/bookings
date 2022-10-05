@@ -6,3 +6,5 @@ This is the repository for my bookings and reservations project
 - Uses the [chi Router](github.com/go-chi/chi)
 - Uses [Alex Edwards SCS](github.com/alexedwards/scs/v2) session management
 - Uses [nosurf](github.com/justinas/nosurf)
+
+Built by T Sawler
